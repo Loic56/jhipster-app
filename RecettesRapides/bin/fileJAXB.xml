@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Liste>
+    <Recette id="1">
+        <description>description de la pizza ananas</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Pate à pain</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Sauce tomate</nom>
+                <quantite>1 pot</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Gruyère</nom>
+                <quantite>1 paquet</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Ananas</nom>
+                <quantite>1 boite</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Jambon</nom>
+                <quantite>4 tranches</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Pizza ananas</nom>
+        <note>1</note>
+    </Recette>
+    <Recette id="2">
+        <description>
+- Faire cuire les courgettes sans enlever la peau.
+- Battre les six oeufs en omelette.
+- Mixer les courgettes cuites. Mélanger les courgettes, les oeufs et la crème fraîche.
+- Mettre dans des ramequins, après les avoir enduis de beurre (environ 12 ramequins).
+- Faire cuire 30 mn au four thermostat 6 (180°C).
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Courgettes</nom>
+                <quantite>1 kg</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Oeufs</nom>
+                <quantite>6</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Crème fraiche</nom>
+                <quantite>120 g</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Flans de courgettes</nom>
+        <note>1</note>
+    </Recette>
+    <Recette id="3">
+        <description>
+- Préchauffer le four à 180°C (thermostat 6).
+- Hacher l'oignon et l'ail.
+- Dans une cocotte en fonte, faire fondre le beurre, et ensuite dorer doucement l'oignon et l’ail.
+- Incorporer le boeuf haché et laisser cuire doucement 10 min.
+- Mélanger le chili, le cumin, le concentré de tomates, et incorporer le tout au boeuf. Ajouter les haricots, le bouillon, du sel et du poivre.
+- Couvrir et cuire 25 min au four.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Beurre</nom>
+                <quantite>50 gr</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Oignons</nom>
+                <quantite>2</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Gousses d'ail écrasées</nom>
+                <quantite>2</quantite>
+            </Ingredient>
+            <Ingredient id="42">
+                <nom>Boeuf haché</nom>
+                <quantite>500 gr</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Chili en poudre</nom>
+                <quantite>1 C. à café</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Cumin en poudre</nom>
+                <quantite>2 C. à café</quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>Concentré de tomate</nom>
+                <quantite>65 gr</quantite>
+            </Ingredient>
+            <Ingredient id="8">
+                <nom>Haricots rouges</nom>
+                <quantite>1 grosse boite</quantite>
+            </Ingredient>
+            <Ingredient id="9">
+                <nom>Bouillon de boeuf</nom>
+                <quantite>30 cl</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Chili con carne</nom>
+        <note>4</note>
+    </Recette>
+    <Recette id="4">
+        <description>
+- Dans une casserole d’eau bouillante salée, faites cuire les petits pois pendant 5 minutes. Égouttez-les et rafraîchissez-les sous l'eau froide pour stopper leur cuisson.
+- Épluchez et hachez l'oignon, faites-le revenir 5 minutes dans une grande casserole avec 2 cuillerées à soupe d'huile d'olive.
+- Ajoutez le riz à risotto, enrobez-le d'huile et des oignons en le mélangeant à l’aide d’une cuillère en bois.
+- Couvrez avec le vin blanc. Salez, poivrez et laissez mijoter pendant 5 minutes à feu vif. Puis versez 1/3 du fumet de poisson préalablement chauffé. Laissez cuire 5 minutes sur feu moyen. Ajoutez le reste du fumet de poisson au fur et à mesure jusqu'à ce que le riz soit cuit.
+- Pendant ce temps, découpez le saumon en petits morceaux, faites-les cuire 2 minutes sur feu vif dans une poêle avec le reste de l'huile d'olive. Salez et poivrez le poisson.
+- A la fin de la cuisson du riz, ajoutez les petits pois, le beurre en morceaux et le parmesan pour donner une consistance crémeuse à votre risotto au saumon et petits pois. Mélangez, puis servez aussitôt dans des assiettes avec les morceaux de saumon.
+</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Filet de saumon</nom>
+                <quantite>400 gr</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Riz à risotto</nom>
+                <quantite>200 gr</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Petits pois frais/surgelés</nom>
+                <quantite>150 gr</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Parmesan</nom>
+                <quantite>50 gr</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Beurre</nom>
+                <quantite>40 gr</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Fumet de poisson</nom>
+                <quantite>50 cl</quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>Vin blanc</nom>
+                <quantite>15 cl</quantite>
+            </Ingredient>
+            <Ingredient id="8">
+                <nom>Oignon</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="9">
+                <nom>Huile d'olive</nom>
+                <quantite>4 C. à soupe</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Risotto saumon / petits pois</nom>
+        <note>2</note>
+    </Recette>
+    <Recette id="5">
+        <description>
+- Cuire les pommes de terre à l’eau pendant 20 minutes, puis les éplucher et les couper en rondelles.
+- Emincer les oignons et les faire revenir dans un peu de beurre.
+- Ajouter les lardons fumés et laisser également revenir à feu assez doux (une dizaine de minutes) en remuant régulièrement.
+- Préparer un plat de cuisson (j’utilise un plat rond en terre cuite de 40 cm de diamètre, 10 cm de haut). Frotter généreusement le fond du plat avec une gousse d’ail.
+- Organiser le plat en trois couches : recouvrir le fond du plat de la moitié des pommes de terre, puis ajouter le mélange oignons et lardons, ajouter enfin par dessus le reste des pommes de terre.
+- Verser dessus le vin blanc et la crème fleurette. Poivrer (assez copieusement) et saler (légèrement).
+- Préchauffer le four à 190°C (thermostat 6-7).
+- Gratter les reblochons, les couper en deux dans l'épaisseur et les poser (côté croûte en haut) sur le dessus des pommes de terre.
+- Enfourner environ 20 minutes (je mets le four en « chaleur tournante » + gril).
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Reblochon</nom>
+                <quantite>1.5 (2 pr les gourmands)</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Pommes de terre</nom>
+                <quantite>1.2 kg</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Jambon fumé (ou lardons/dés de bacon)</nom>
+                <quantite>1 tranche</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Oigons</nom>
+                <quantite>500 g</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Vin blanc (facultatif)</nom>
+                <quantite>40 cl</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>sel/poivre</nom>
+                <quantite>1 pincée</quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>crème fraiche</nom>
+                <quantite>1 pot</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Tartiflette</nom>
+        <note>3</note>
+    </Recette>
+    <Recette id="6">
+        <description>
+- Chauffer l'huile dans une casserole ou une cocotte, y faire revenir les oignons et l'ail, remuer.
+- Ajouter les épices et remuer.
+- Ajouter les pois chiches puis les tomates avec leur jus, mélanger.
+- Couvrir et laisser mijoter 20 min à feu doux.
+- Saler, ajouter le guaram massala, remuer et prolonger la cuisson de 20 min.
+- Servir très chaud avec des naans ou des chapatis.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Huile de tournesol</nom>
+                <quantite>1 C. à soupe</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Oignon</nom>
+                <quantite>2</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Ail emincé</nom>
+                <quantite>4 gousse</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Pois chiches</nom>
+                <quantite>Boite 800 gr</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Tomate en boite</nom>
+                <quantite>450 gr</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Sel</nom>
+                <quantite>1 C. à café</quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>Pate de curry</nom>
+                <quantite>2/3 C. à soupe</quantite>
+            </Ingredient>
+            <Ingredient id="8">
+                <nom>Epices en vrac : chili/paprika/curcuma/cumin/coriande/guaram massala</nom>
+                <quantite>1 c. à café de chaque</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Curry de pois chiche</nom>
+        <note>5</note>
+    </Recette>
+    <Recette id="7">
+        <description>o</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Haricot rouges cuits</nom>
+                <quantite>250 gr</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Poivron rouge</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Poivron jaune</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Graine de tournesol</nom>
+                <quantite>100 gr</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Sel/poivre</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Persil</nom>
+                <quantite>1 C. à soupe</quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>Sauce tomate provencale</nom>
+                <quantite>3 C. à café</quantite>
+            </Ingredient>
+            <Ingredient id="8">
+                <nom>Crème d'avoine liquide</nom>
+                <quantite>4 C. à café</quantite>
+            </Ingredient>
+            <Ingredient id="9">
+                <nom>Fécule de pomme de terre</nom>
+                <quantite>2 C. à soupe</quantite>
+            </Ingredient>
+            <Ingredient id="10">
+                <nom>Chapelure de pain</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Galette d'haricots rouge et poivrons</nom>
+        <note>5</note>
+    </Recette>
+    <Recette id="8">
+        <description>
+- Faites chauffer l'huile dans votre wok. Ajoutez-y l'oignon émincé et laissez revenir jusqu'à ce qu'il devienne translucide.
+- Ajoutez le riz, le poivron et le piment, salez, mélangez et faites sauter 1 minute.
+- Versez l'eau bouillante, portez à ébullition, baissez le feu et laissez cuire une quinzaine de minutes.
+- Ajoutez alors le maïs, les haricots et la coriandre. Remuez de temps en temps jusqu'au service.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Huile de tournesol</nom>
+                <quantite>1 C. à soupe</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Oignon émincé</nom>
+                <quantite>1/2</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Riz basmati</nom>
+                <quantite>200 gr</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Piment de cayenne</nom>
+                <quantite>1 pincée</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Poivron vert</nom>
+                <quantite>1 petit</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Eau</nom>
+                <quantite>40 cl</quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>Maïs</nom>
+                <quantite>3 C. à soupe</quantite>
+            </Ingredient>
+            <Ingredient id="8">
+                <nom>Haricots rouges en boîte </nom>
+                <quantite>100 gr</quantite>
+            </Ingredient>
+            <Ingredient id="9">
+                <nom>Coriandre</nom>
+                <quantite>1 branche</quantite>
+            </Ingredient>
+            <Ingredient id="10">
+                <nom>Sel</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Riz sauté aux haricots épicés </nom>
+        <note>4</note>
+    </Recette>
+    <Recette id="9">
+        <description>
+- Dans un wok ou une poêle à bords larges,faire chauffer l'huile et y faire revenir l'oignon émincé.
+- Ajouter le cumin et le curcuma jusqu'à imprégnation totale de l'oignon. 
+- Ajouter les lentilles puis les tomates concassées et enfin le lait de coco.
+- Compléter si nécessaire avec de l'eau pour recouvrir la préparation.
+- Laisser mijoter à feu doux environ 1/2 heure.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Lentilles corail</nom>
+                <quantite>250 gr</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Oignon</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Tomates concassées</nom>
+                <quantite>1 boite 400 gr</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Lait de coco</nom>
+                <quantite>1 brique</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Cumin</nom>
+                <quantite>1 C. à café</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Curcuma</nom>
+                <quantite>1 C. à café</quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>Huile d'olive</nom>
+                <quantite>1 C. à soupe</quantite>
+            </Ingredient>
+            <Ingredient id="8">
+                <nom>eau/sel/poivre</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Lentilles corail à l'indienne</nom>
+        <note>5</note>
+    </Recette>
+    <Recette id="10">
+        <description>
+- Plongez les œufs dans de l'eau bouillante pendant 10 minutes (ajoutez une petite poignée de gros sel à l’eau, si les œufs éclatent, le blanc coagulera tout de suite). Sortez-les et laissez-les refroidir.
+- Pendant ce temps, faites cuire les épinards dans une casserole d'eau bouillante environ 20 minutes (6 minutes si surgelés). Égouttez-les et essorez-les. Hachez-les s’ils sont frais.
+- Préparez une béchamel : faites fondre le beurre à feu doux dans une casserole, saupoudrez de farine et mélangez doucement 2 minutes. Ajoutez le lait froid et mélangez jusqu'à épaississement. Salez, poivrez.
+- Dans un plat allant au four, mettez les épinards mélangés à la béchamel. Posez sur le plat les moitiés d ’œufs durs écaillés, le jaune vers l'extérieur. Saupoudrez de chapelure et faites gratiner au four. 
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Beurre</nom>
+                <quantite>20 gr</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Oeufs</nom>
+                <quantite>2</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Epinards</nom>
+                <quantite>450 gr surgelé / 1 kg frais</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Lait</nom>
+                <quantite>25 cl</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Farine</nom>
+                <quantite>20 gr</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Chapelure</nom>
+                <quantite>1 pincée</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Epinards aux oeufs en gratin</nom>
+        <note>5</note>
+    </Recette>
+    <Recette id="11">
+        <description>
+- Passez la courgette sous l’eau. Épluchez la carotte et l'oignon et râpez tous les légumes avec les gros trous de la râpe. Faites de même avec le fromage.
+- Fouettez ensuite les œufs avec le curry et l'Ossau-Iraty d'Istara. Ciselez l'herbe, ajoutez-la à la préparation et mélangez.
+- Faites chauffer l'huile d'olive dans une poêle à feu vif, puis faites-y revenir les légumes quelques minutes sans cesser de remuer.
+- Toujours dans la poêle, divisez les légumes en 4 parts et répartissez le mélange au fromage sur chacune d'elles.
+- Faites prendre les omelettes et servez bien chaud. 
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Ossau-Iraty Istara</nom>
+                <quantite>100 gr</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Oignon</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Carotte</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Curry</nom>
+                <quantite>1 C. à café</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Courgette</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Oeufs</nom>
+                <quantite>8</quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>Persil</nom>
+                <quantite>1/2 botte</quantite>
+            </Ingredient>
+            <Ingredient id="8">
+                <nom>Huile d'olive</nom>
+                <quantite>3 C. à soupe</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Blinis de légumes à l’Ossau-Iraty</nom>
+        <note>4</note>
+    </Recette>
+    <Recette id="12">
+        <description></description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Jambon</nom>
+                <quantite>3/4 tracnhes</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Pain de mie</nom>
+                <quantite>1 paquet</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Emmental rapé</nom>
+                <quantite>1 paquet</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Tranches de fromage (comté/emmental/etc...)</nom>
+                <quantite>8 tranches</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Croque monsieur</nom>
+        <note>3</note>
+    </Recette>
+    <Recette id="13">
+        <description>
+- Faire revenir l'ail et l'oignon hachés dans l'huile chaude. Ajouter le riz et le laisser un peu frire.
+- Incorporer les crevettes, les petits pois et les dés de jambon. Verser 6 dl d'eau bouillante. Saler et poivrer. Bien mélanger. Couvrir et cuire pendant environ 12 minutes, à feu doux.
+- Pour finir ajouter les oeufs brouillés. Mélanger. Saupoudrer de ciboulette hachée et décorer avec les brins de persil. 
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Oignon</nom>
+                <quantite>31</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Ail</nom>
+                <quantite>2 gousses</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Riz</nom>
+                <quantite>300 gr</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Petites crevettes</nom>
+                <quantite>200 gr</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Petits pois</nom>
+                <quantite>150 gr</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Oeufs</nom>
+                <quantite>2</quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>Ciboulette / Persil</nom>
+                <quantite>1 bouquet de chaque</quantite>
+            </Ingredient>
+            <Ingredient id="8">
+                <nom>Dés de jambon</nom>
+                <quantite>150 gr</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Riz cantonais</nom>
+        <note>3</note>
+    </Recette>
+    <Recette id="14">
+        <description>
+- Piquez les saucisses et mettez les dans l'eau bouillante pendant 10 mn, dans la même marmite qui vous servira à la préparation du plat afin de garder les saveurs.
+- Videz la marmite. Réservez les saucisses. Faites-y chauffer de l'huile d'olive.
+- Faites revenir les oignons émincés et l'ail écrasé sans qu'ils soient trop colorés.
+- Coupez les saucisses en troncons de 1,5 cm puis faites les revenir avec les oignons. Au bout de 5 mn, ajoutez les tomates coupées en petits morceaux et les aromates (le piment en morceaux).
+- Mélangez le tout puis laisser mijoter sur feu doux en ôtant le couvercle de temps à autre pour éliminer l'excès d'eau.
+Servez avec du riz thai.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Saucisses fumées</nom>
+                <quantite>6 petites ou 4 grosses</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Ail</nom>
+                <quantite>6 gousses</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Riz</nom>
+                <quantite></quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Tomates</nom>
+                <quantite>4</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Oignons</nom>
+                <quantite>4</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>sel/poivre/thym/curcuma/piment</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Rougail saucisse</nom>
+        <note>4</note>
+    </Recette>
+    <Recette id="15">
+        <description>
+- Pour 4 personnes
+- Dans une grande casserole, portez à ébullition de l’eau et plongez les bouquets de brocoli 10 minutes. 
+- Retirez les brocolis à l’aide d’une écumoire, et faites cuire les pâtes dans la même eau une douzaine de minutes (selon le type de pâte).
+- Vous pouvez également cuire brocolis et pâtes en même temps, en respectant les temps de cuisson respectifs. 
+- Dans un plat à gratin beurré, disposez les pâtes et brocolis. 
+- Couvrez avec du comté râpé. Poivrez. Passez au four 10 minutes.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Brocoli cru</nom>
+                <quantite>500 gr</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Pâtes</nom>
+                <quantite>500 gr</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Compté</nom>
+                <quantite>40 gr</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>sel/poivre</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Gratin de pâtes aux Brocolis</nom>
+        <note>4</note>
+    </Recette>
+    <Recette id="16">
+        <description>
+- Cuire le riz en respectant le temps de cuisson indiqué sur l’emballage (variable selon les types de riz). 
+- Couper la mangue en tranches ou en dés.
+- Cuire le blanc de poulet sur une poêle anti-adhésive, en le laissant brunir, puis coupez le en morceaux. 
+- Ajoutez les tranches de mangue, puis le miel et poursuivre la cuisson 1 minute en mélangeant, de façon à ce que le miel fonde et imbibe les ingrédients. 
+- Versez l’ensemble sur le riz.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Blanc de poulet</nom>
+                <quantite>130 gr</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Riz</nom>
+                <quantite>200 gr</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Mangue</nom>
+                <quantite>60 gr</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Miel</nom>
+                <quantite>1 C. à café</quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>Gimgembre</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Poulet Thaï à la Mangue</nom>
+        <note>5</note>
+    </Recette>
+    <Recette id="17">
+        <description>
+- Avec un économe, pelez les pommes de terre puis lavez-les.
+- Sur une planche de cuisine, découpez-les en rondelles.
+-Dans un plat creux en verre, versez 10 cl d’eau puis 1 c. à soupe de gros sel.
+- Mettez les pommes de terre dans cette eau salée et laissez chauffer au micro-ondes à puissance maximale pendant 10 min.
+- Au bout de cette durée, sortez vos pommes de terre puis, dans un récipient adapté, écrasez-les avec une fourchette.
+- Ajoutez-y 50 g de beurre et 2 c. à soupe de crème fraiche puis mélangez bien.
+- Couvrez le récipient et mettez-le de côté.
+- Lavez le potiron et pelez-le.
+- Ensuite, découpez-le en dés.
+- Videz le plat creux en verre précédemment utilisé, de son eau salée.
+- Versez-y à nouveau 10 cl d’eau et 1 c. à soupe de gros sel.
+- Jetez-y les cubes de potiron puis laissez chauffer au micro-ondes pendant 5 min.
+- Sortez ensuite les dés de potiron puis, dans un autre récipient adapté, écrasez-les à l’aide d’une fourchette.
+- Ajoutez-y le reste de beurre puis mélangez à nouveau en écrasant avec la fourchette.
+- Prenez un plat à gratin et enduisez-le de beurre.
+- Tapissez le fond de ce plat à gratin avec une couche de pommes de terre écrasées.
+- Ensuite, étalez successivement en couche et dans l’ordre suivant : la moitié de la crème restante, le potiron écrasé et le reste de la crème fraîche.
+- Râpez le comté et rependez-le sur la préparation.
+- Enfournez pendant 10 min.
+- Laissez gratiner avant de servir.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Pomme de terre</nom>
+                <quantite>500 gr</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Potiron</nom>
+                <quantite>300 gr</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Beurre</nom>
+                <quantite>75 gr</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Crème fraîche</nom>
+                <quantite>30 cl</quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>Compté</nom>
+                <quantite>150 gr</quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>Gros sel</nom>
+                <quantite>1 C. à soupe</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Purée pomme de terre et potimarron gratinée</nom>
+        <note>5</note>
+    </Recette>
+    <Recette id="18">
+        <description>
+- Poêler ou faire dorer les cacahuètes.
+- Découper le poulet en gros morceaux puis mariner avec 3 cl de sauce de soja et 12g de farine de fécule de pomme de terre (laisser mariné ainsi pendant 15 min environ).
+- Poêler le poulet mariné avec un peu d'huile (faire attention à ne pas retourner la viande trop rapidement pour ne pas enlever la panure).
+- Mettre de côté le poulet dans une assiette.
+- Chauffer un peu d'huile, ajouter les piments sec, l'ail haché et le gingembre haché. Sauter jusqu'à sentir l'odeur des ingrédients s'en dégager.
+- Ajouter le poulet dans la poêle, sauter le tout puis ajouter 4,5 cl de sauce soja et 1,5 cl de vinaigre.
+- Préparer en attendant 12g de farine de fécule de pomme de terre avec 4,5 cl d'eau. Mélanger et verser dans la poêle (continuer de bien faire cuir le tout, attention à bien remuer le mélange pour éviter que la fécule de pomme de terre ne fasse de paquet).
+- Ajouter les cacahuètes, on peut aussi bien ajouter des cacahuètes déjà préparées pour l'apéritif.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Sauce soja</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Vinaigre balsamique</nom>
+                <quantite></quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Cacahuètes</nom>
+                <quantite></quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Fécule de pomme de terre</nom>
+                <quantite></quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>Blanc de poulet</nom>
+                <quantite>2</quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>Gousses d'ail</nom>
+                <quantite>2</quantite>
+            </Ingredient>
+            <Ingredient id="8">
+                <nom>Piment</nom>
+                <quantite></quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Poulet cacahuètes piquante</nom>
+        <note>5</note>
+    </Recette>
+    <Recette id="19">
+        <description>
+- Faites cuire les macaronis dans une casserole d'eau bouillante salée avec un filet d'huile d'olive une dizaine de minutes.
+- Dans une petite casserole, faites chauffer la crème fraîche avec 100 g de parmesan.Hors du feu, ajoutez le jambon coupé en dés.
+- Egouttez les pâtes. Mélangez-les avec la crème au parmesan. Poivrez.
+- Lavez, épépinez et coupez les tomates en rondelles.
+- Dans un plat à gratin, déposez une couche de macaronis, puis la moitié des rondelles de tomates. Recouvrez d'une seconde couche de pâtes et du reste des tomates.
+- Saupoudrez de 50 g de parmesan et enfournez 20 minutes th 6 (180°).
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Macaroni</nom>
+                <quantite>400 gr</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Jambon cru</nom>
+                <quantite>4 tranches</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Tomates</nom>
+                <quantite>4</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Crème fraîche allégée</nom>
+                <quantite>3 C. à soupe</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Parmesan rapé</nom>
+                <quantite>150 gr</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Gratin de macaroni</nom>
+        <note>3</note>
+    </Recette>
+    <Recette id="20">
+        <description>
+- Faites revenir les lardons dans une poêle sans matière grasse.
+- Faites cuire les pâtes dans une casserole d'eau bouillante salée le temps indiqué sur l'emballage.
+- Pendant ce temps cassez les oeufs dans un saladier, mélangez-les à la fourchette avec le parmesan râpé.
+- Égouttez les pâtes, reversez-les dans la casserole, ajoutez les lardons, versez les oeufs, salez, poivrez puis mélangez 2 minutes sur feu doux.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Spaghetti</nom>
+                <quantite>400 gr</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Lardons</nom>
+                <quantite>200 gr</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Oeufs</nom>
+                <quantite>4</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Parmesan/Rapé</nom>
+                <quantite>50 gr</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Spagetti carbonara</nom>
+        <note>4</note>
+    </Recette>
+    <Recette id="21">
+        <description>
+- Description à venir
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>truc1 </nom>
+                <quantite></quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom></nom>
+                <quantite></quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Charcuterie au four avec un légume</nom>
+        <note>3</note>
+    </Recette>
+    <Recette id="22">
+        <description>
+- Faite cuire le riz dans une casserole d'eau bouillante salée.
+- Pendant ce temps, lavez, épépinez et coupez les morceaux de poivrons en dés.
+- Faites les revenir dans une casserole avec un filet d'huile d'olive pendant une dizaine de minutes.
+- Ajoutez les crevettes décortiquées et poursuivez la cuisson 2 minutes.
+- Egouttez le riz, reversez-le dans la casserole et ajoutez-y les légumes.
+- Saupoudrez de curry et versez un filet d'huile d'olive. Salez, poivrez et servez chaud.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Crevettes cuites</nom>
+                <quantite>200 gr</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Poivron rouge</nom>
+                <quantite>1/2</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Poivron vert</nom>
+                <quantite>1/2</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Riz</nom>
+                <quantite>125 gr</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Curry</nom>
+                <quantite>1 C. à soupe</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Riz au curry et crevettes</nom>
+        <note>4</note>
+    </Recette>
+    <Recette id="23">
+        <description>
+- Dans un saladier, déposez les aiguillettes de poulet.
+- Ajoutez le sucre, la sauce soja, le vinaigre et les graines de sésame. Mélangez et laissez mariner 30 minutes au réfrigérateur.
+- Faites chauffer une cuillère à soupe d''huile dans un wok et versez le poulet et sa sauce. Faites cuire le tout 5 minutes environ.
+- Servez avec du riz.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Poulet</nom>
+                <quantite>250 gr</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Sucre roux</nom>
+                <quantite>2 C. à soupe</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Sauce soja</nom>
+                <quantite>4 C. à soupe</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Graines de sésame</nom>
+                <quantite>2 C. à soupe</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Vinaigre de riz</nom>
+                <quantite>2 C. à soupe</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Huile</nom>
+                <quantite>1 C. à soupe</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Poulet au sésame</nom>
+        <note>4</note>
+    </Recette>
+    <Recette id="24">
+        <description>
+- Faites bouillir une casserole d'eau avec une pincée de sel. Plongez-y les spaghettis et faites-les cuire le temps indiqué sur l'emballage.
+- Egouttez et émiettez le thon. Versez-le dans un bol.
+- Mélangez le thon avec la crème fraîche et le concentré de tomate. Salez et poivrez.
+- Faites chauffer la sauce au thon dans une casserole quelques minutes.
+- Egouttez les pâtes, servez-les dans des assiettes et recouvrez-les de sauce au thon. Parsemez de basilic frais ciselé.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Spaghetti</nom>
+                <quantite>200 gr</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Thon au naturel</nom>
+                <quantite>1 boite</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Crème fraîche</nom>
+                <quantite>1 boite (15 cl)</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Concentré de tomate</nom>
+                <quantite>1 C. à café</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Sel/poivre/basilic</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Pâtes au thon</nom>
+        <note>3</note>
+    </Recette>
+    <Recette id="25">
+        <description>
+- Dans un plat, versez le jus du citron, l’ail haché, l’huile ainsi que toutes les épices et mélangez.
+- Coupez les blancs de poulet en morceaux de 3 cm de large et faites-les mariner dans le mélange pendant une nuit (si vous ne pouvez pas, 1 heure minimum).
+- Enfilez les dés de poulet sur des pics à brochettes et faites-les cuire au barbecue, couvercle fermé.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Blanc de poulet</nom>
+                <quantite>300 gr</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Citron</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Ail</nom>
+                <quantite>1 gousse</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Thym/cumin/canelle/piment</nom>
+                <quantite>1/2 C. à café de chaque</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Brochettes de poulet</nom>
+        <note>5</note>
+    </Recette>
+    <Recette id="26">
+        <description>
+- INFO : recette pour 4 pers
+- Découpez votre avocat et votre tomate en morceaux. Coupez votre boule de mozzarella en tranches.
+- Chauffez votre poêle à feu moyen.
+- Beurrez légèrement un côté de vos deux tranches de pain.
+- Placez dans un premier temps une tranche dans la poêle.
+- Par-dessus, ajoutez l’avocat, la mozzarella et les morceaux de tomate. Versez un peu d’huile d’olive et assaisonnez enfin de sel et de poivre. Refermez le tout avec l'autre tranche
+- Dès que le premier côté est doré (au bout de 2-3 minutes environ), retournez et laissez cuire 3 minutes de plus.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Pain de mie</nom>
+                <quantite>1 paquet</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Avocats</nom>
+                <quantite>2</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Mozarella</nom>
+                <quantite>2</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Tomate</nom>
+                <quantite>2</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Croque-Monsieur Mozarella, Avocat, Tomate </nom>
+        <note>1</note>
+    </Recette>
+    <Recette id="27">
+        <description>
+- faire rissoler l' oignon dans un peu d'huile d'olive
+- y ajouter les lardons
+- puis les haricots verts
+- puis la crème fraiche
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Haricots vert</nom>
+                <quantite>1 boite</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Lardons</nom>
+                <quantite>1 boite</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Oignons</nom>
+                <quantite>1 ou 2</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Crème fraîche</nom>
+                <quantite>1 boite</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Champignons</nom>
+                <quantite>1 boite</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Haricots verts aux lardons et crème fraîche</nom>
+        <note>5</note>
+    </Recette>
+    <Recette id="28">
+        <description>
+- On vide les courgettes, coupe en petits dès ce qu'on a enlevé.
+- On coupe tout petit le jambon que l'on mélange à la chaire de courgette ainsi qu'au boursin et a quelques cuillères de creme (pour plus de fondant)
+- On farcit les courgettes avec le tout.
+- 30 minutes au four thermostat 180 200. Pile le temps de donner le bain et mettre tout le monde en pyjama !
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Courgettes</nom>
+                <quantite>4/5 </quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Jambon Blanc</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Carrés de boursin</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Crème fraîche épaisse</nom>
+                <quantite>1 boite</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Courgettes aux jambon</nom>
+        <note>4</note>
+    </Recette>
+    <Recette id="29">
+        <description>
+- On coupe des pommes de terre lavées mais non épluchées en gros quartiers.
+- On les met dans un saladier avec un peu d'huile, de l'ail semoule, du paprika, du sel, du poivre, du raz-el-hanout ou tous les épices que l'on aime.
+- On mélange bien et hop, sur la plaque du four recouverte d'une feuille de papier sulfurisé.
+- On accompagne d'une tranche de jambon et d'une petite salade verte.
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Pomme de terre</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Sel/poivre/paprika</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Jambon</nom>
+                <quantite>1 tranche par personne</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Potatoes</nom>
+        <note>3</note>
+    </Recette>
+    <Recette id="30">
+        <description>
+- Emietter le thon sur la pâte.
+- Mélanger dans un gros bol : la crème, le concentré de tomate, l'oeuf et le sel; verser la préparation sur le thon.
+- Saupoudrer d'herbes de Provence, recouvrir de fromage râpé, puis faire cuire 25 min (selon puissance du four). 
+		</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Pate brisé</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Crème fraiche</nom>
+                <quantite>1 pot</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Concentré de tomate</nom>
+                <quantite>1 boite</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Thon en boite</nom>
+                <quantite>150 gr</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Fromage rapé</nom>
+                <quantite>50 gr</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Oeuf</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Herbes de provence</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Tarte thon et tomate</nom>
+        <note>5</note>
+    </Recette>
+    <Recette id="31">
+        <description>
+- Evider la brioche, réserver la tête.
+- Mettre un peu de garniture au fond : oignons et lardons par exemple.
+- Casser l'oeuf dans la brioche, saler et poivrer.
+- Remettre le chapeau + Mettre au four 15 minutes environ, jusqu'à ce que l'oeuf soit cuit. </description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>1 brioche par personne</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Oeufs</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Lardons</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Oignons</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Gruyère</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>Tomate</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>Crevette</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Oeufs en brioche</nom>
+        <note>5</note>
+    </Recette>
+    <Recette id="32">
+        <description>- Faites fondre le beurre dans une poêle puis ajoutez les poireaux coupés en rondelles. Laissez cuire jusqu'à ce que les poireaux deviennent fondants. - Une fois les poireaux fondants, ajoutez le miel et mélangez. Puis, ajoutez le curry. - Dans un bol, mélangez les oeufs et la crème fraîche, salez et poivrez.- Une fois la pâte feuilletée précuite, ajoutez les poireaux, le gruyère puis versez le mélange crème fraîche/oeufs par dessus. Faites cuire à 200°C (thermostat 7) pendant 25 minutes. </description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>poireaux</nom>
+                <quantite>2</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>pâte feuilletée</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>oeufs</nom>
+                <quantite>2</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>de crème fraîche</nom>
+                <quantite>20 cl</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>gruyère</nom>
+                <quantite>50 g</quantite>
+            </Ingredient>
+            <Ingredient id="6">
+                <nom>beurre</nom>
+                <quantite>15 g</quantite>
+            </Ingredient>
+            <Ingredient id="7">
+                <nom>curry</nom>
+                <quantite>10 g</quantite>
+            </Ingredient>
+            <Ingredient id="8">
+                <nom>miel</nom>
+                <quantite>2 cuillères à café</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Tarte aux poireaux curry-miel </nom>
+        <note>5</note>
+    </Recette>
+    <Recette id="33">
+        <description>- Hacher les oignons, l'ail et les échalotes, couper la viande en petits morceaux. Dans une poêle faire revenir la viande dans un peu d'huile puis ajouter les oignons, l'ail et les échalotes. - Une fois le tout revenu, ajouter le caramel et le nuoc mam et laisser cuire à feu doux pendant 10 mn. Ajuster selon votre qoût. Ajouter un demi verre d'eau et faire réduire 10 mn environ. - Servir avec le riz. </description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>oignons</nom>
+                <quantite>2</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>échalotte + ail</nom>
+                <quantite>2 + 3</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>vainde de porc</nom>
+                <quantite>600 g</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>caramel liquide</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>nuoc mam</nom>
+                <quantite>4 cuillères a soupe</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Porc au caramel</nom>
+        <note>3</note>
+    </Recette>
+    <Recette id="34">
+        <description>- Faire deux ronds dans la pâte feuilletée au moyen d'une petite assiette (environ 15 cm de diamètre). - Au centre de chaque rond, mettre 1 c à soupe de miel, parsemer de thym ou d'herbes de Provence et déposer le crottin.- Rabattre les contours de la pâte au dessus du crottin.- Battre l'oeuf et y tremper le feuilleté.- Mettre au four environ 15 minutes à 200°C dans un four préchauffé.- Pour faire un plat plus consistant : garnir l'assiette de salade, lamelles de tomates,rondelles de concombres, ... et y mettre la vinaigrette composée des ingrédients ci-dessus. Déposer le feuilleté au centre sur le lit de salade </description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Chévre</nom>
+                <quantite>2 crotins</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>pâte feuilletée</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>meil</nom>
+                <quantite>2 cuillère à soupe</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>oeuf</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>thym / herbre de provence</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Feuilletés au chèvre</nom>
+        <note>3</note>
+    </Recette>
+    <Recette id="35">
+        <description>- Diviser les escalopes en 2 dans le sens de la longueur, les assaisonner. - Poser une tranche de jambon sur une des faces de l'escalope puis 2 tranches de fromage à hamburger ou d'emmental. - Refermer l'escalope avec l'autre face. - Battre un œuf entier, dans un bol et faire tremper le cordon bleu sur toutes ses faces. Puis le tremper dans la chapelure.  - Une fois le cordon bleu pané, le faire cuire dans un poêle huilée bien chaude sur chaque face. Cuire une quinzaine de minutes.</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>escalopes de dinde ou poulet</nom>
+                <quantite>4</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>tranches de jambon</nom>
+                <quantite>4</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom> fromages à hamburger ou tranches d'emmental</nom>
+                <quantite>8</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>oeuf</nom>
+                <quantite>1</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>chapelure</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Cordon bleu maison</nom>
+        <note>5</note>
+    </Recette>
+    <Recette id="36">
+        <description>- Ouvrir les croissants en deux dans le sens de la longueur- Mettre à l'intérieur de chaque croissant une couche de Béchamel- Ajouter une demi tranche de jambon blanc repliée - Ajouter un peu d'emmenthal râpé- Refermer les croissants en repliant ses deux cotés l'un sur l'autre</description>
+        <ingredients>
+            <Ingredient id="1">
+                <nom>Croissants</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+            <Ingredient id="2">
+                <nom>Jambon</nom>
+                <quantite>1/2 par croissant</quantite>
+            </Ingredient>
+            <Ingredient id="3">
+                <nom>Béchamel</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+            <Ingredient id="4">
+                <nom>Emmental rapé</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+            <Ingredient id="5">
+                <nom>Salade</nom>
+                <quantite>?</quantite>
+            </Ingredient>
+        </ingredients>
+        <nom>Croissant au jambon</nom>
+        <note>5</note>
+    </Recette>
+</Liste>

@@ -1,0 +1,7 @@
+
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ìÕí›HèRMINORZ
+CODE_SMELL
+‚squid:UselessImportCheck"CRemove this unused import 'javax.xml.bind.annotation.XmlAttribute'.(§ƒ¶èÿÿÿÿÿHéRMINORZ
+CODE_SMELL
+‡squid:UselessImportCheck"HRemove this unused import 'javax.xml.bind.annotation.XmlElementWrapper'.(ç·ïíþÿÿÿÿHêRMINORZ
+CODE_SMELL

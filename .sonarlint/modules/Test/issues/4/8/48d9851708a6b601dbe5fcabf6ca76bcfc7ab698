@@ -1,0 +1,95 @@
+
+Isquid:S1643?"Use a StringBuilder instead.(Èˆ‚¾H½RMINORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.HÙRMINORZ
+CODE_SMELL
+{squid:S00100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ’üsHÛRMINORZ
+CODE_SMELL
+f
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(Ø‚‘ÚHÍRMAJORZ
+CODE_SMELL
+k
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(Ö¥œ¬ÿÿÿÿÿHÏRMAJORZ
+CODE_SMELL
+squid:S001002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡÷ÃƒøÿÿÿÿHÚRMINORZ
+CODE_SMELL
+…squid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥´ååüÿÿÿÿHİRMINORZ
+CODE_SMELL
+e
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ëÏÒ®HÌRMAJORZ
+CODE_SMELL
+Usquid:S16439"Use a StringBuilder instead.(øĞ›äüÿÿÿÿ8—‹‚ê,HæRMINORZ
+CODE_SMELL
+Nsquid:S1643:"Use a StringBuilder instead.(•ÎÿŠıÿÿÿÿH¾RMINORZ
+CODE_SMELL
+f
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(ÄÍÖÔHÉRMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(šÁìÂHÒRMAJORZ
+CODE_SMELL
+Isquid:S1643O"Use a StringBuilder instead.(ášÒÖHºRMINORZ
+CODE_SMELL
+Xsquid:S1148f"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHáRMINORZVULNERABILITY
+j
+squid:S106h"9Replace this use of System.out or System.err by a logger.(»ÊÅùÿÿÿÿHÓRMAJORZ
+CODE_SMELL
+Nsquid:S16437"Use a StringBuilder instead.(·‰…ÛüÿÿÿÿH¿RMINORZ
+CODE_SMELL
+e
+squid:S106×"9Replace this use of System.out or System.err by a logger.(‘‚HÑRMAJORZ
+CODE_SMELL
+f
+squid:S106·"9Replace this use of System.out or System.err by a logger.(µìÉèHÎRMAJORZ
+CODE_SMELL
+Isquid:S1643S"Use a StringBuilder instead.(Èˆ‚¾HÀRMINORZ
+CODE_SMELL
+j
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ŸıïúûÿÿÿÿHĞRMAJORZ
+CODE_SMELL
+f
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(‰¿©ƒH×RMAJORZ
+CODE_SMELL
+k
+squid:S106›"9Replace this use of System.out or System.err by a logger.(û«âÆûÿÿÿÿHËRMAJORZ
+CODE_SMELL
+Œsquid:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğé„öşÿÿÿÿHÄRMINORZ
+CODE_SMELL
+€squid:S00117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¯‹©HßRMINORZ
+CODE_SMELL
+Isquid:S1643A"Use a StringBuilder instead.(®…H¼RMINORZ
+CODE_SMELL
+Vsquid:S2095a".Close this "FileWriter" in a "finally" clause.(×˜ÜHÅRBLOCKERZBUG
+e
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ªëó¼HÇRMAJORZ
+CODE_SMELL
+k
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(Ö¥œ¬ÿÿÿÿÿHÕRMAJORZ
+CODE_SMELL
+j
+squid:S106r"9Replace this use of System.out or System.err by a logger.(ÛƒèÏıÿÿÿÿHÖRMAJORZ
+CODE_SMELL
+k
+squid:S106°"9Replace this use of System.out or System.err by a logger.(ËÃ¢¦ÿÿÿÿÿHÔRMAJORZ
+CODE_SMELL
+ssquid:S1226]"AIntroduce a new variable instead of reusing the parameter "path".(äÙœûÿÿÿÿHØRMINORZ
+CODE_SMELL
+j
+squid:S106N"9Replace this use of System.out or System.err by a logger.(õæ•îÿÿÿÿÿHÆRMAJORZ
+CODE_SMELL
+Nsquid:S16438"Use a StringBuilder instead.(ÚÙ¦¸ûÿÿÿÿH»RMINORZ
+CODE_SMELL
+f
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(‰ÛÍ‘HÊRMAJORZ
+CODE_SMELL
+Isquid:S1643<"Use a StringBuilder instead.(õ”ó€HÁRMINORZ
+CODE_SMELL
+f
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(ÆÀûıHÈRMAJORZ
+CODE_SMELL
+Nsquid:S16436"Use a StringBuilder instead.(š°ìÂûÿÿÿÿHÂRMINORZ
+CODE_SMELL
+dsquid:S1854ß"6Remove this useless assignment to local variable "re".(¿àóõHÜRMAJORZ
+CODE_SMELL
+€squid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÀŞÄHŞRMINORZ
+CODE_SMELL

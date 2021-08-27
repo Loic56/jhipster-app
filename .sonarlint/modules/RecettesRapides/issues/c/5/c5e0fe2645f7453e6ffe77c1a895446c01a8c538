@@ -1,0 +1,138 @@
+
+r
+squid:S106«"9Replace this use of System.out or System.err by a logger.(»ÊÅùÿÿÿÿ8÷’“Œ†-HÁRMAJORZ
+CODE_SMELL
+`squid:S1148©"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8÷’“Œ†-HÖRMINORZVULNERABILITY
+Å%squid:RedundantThrowsDeclarationCheck²"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(ùõÁÎ8÷’“Œ†-H·RMINORZ
+CODE_SMELL
+f
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(Ûæ‰¦HÁRMAJORZ
+CODE_SMELL
+m
+squid:S106õ"9Replace this use of System.out or System.err by a logger.(ÛÒÁ¼8÷’“Œ†-HÃRMAJORZ
+CODE_SMELL
+Qsquid:S1643"Use a StringBuilder instead.(®…8÷’“Œ†-H²RMINORZ
+CODE_SMELL
+e
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ªëó¼H¶RMAJORZ
+CODE_SMELL
+l
+squid:S106›"9Replace this use of System.out or System.err by a logger.(ùƒØ/8÷’“Œ†-HÅRMAJORZ
+CODE_SMELL
+r
+squid:S106Ï"9Replace this use of System.out or System.err by a logger.(ËÃ¢¦ÿÿÿÿÿ8÷’“Œ†-HÄRMAJORZ
+CODE_SMELL
+m
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(‰¿©ƒ8÷’“Œ†-HÏRMAJORZ
+CODE_SMELL
+bsquid:S1481t")Remove this unused "note" local variable.(¯®ÑÆıÿÿÿÿ8÷’“Œ†-HÑRMINORZ
+CODE_SMELL
+Jsquid:S1643"Use a StringBuilder instead.(Èˆ‚¾H™RMINORZ
+CODE_SMELL
+Qsquid:S1643’"Use a StringBuilder instead.(ÇÖÌ8÷’“Œ†-H±RMINORZ
+CODE_SMELL
+Vsquid:S1643„"Use a StringBuilder instead.(š°ìÂûÿÿÿÿ8©©Œ†-HˆRMINORZ
+CODE_SMELL
+m
+squid:S106£"9Replace this use of System.out or System.err by a logger.(ºÂ€Ã8÷’“Œ†-HÌRMAJORZ
+CODE_SMELL
+“squid:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğé„öşÿÿÿÿ8÷’“Œ†-H»RMINORZ
+CODE_SMELL
+Vsquid:S1643‡"Use a StringBuilder instead.(øĞ›äüÿÿÿÿ8÷’“Œ†-H°RMINORZ
+CODE_SMELL
+m
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(³ë…¨8÷’“Œ†-HÊRMAJORZ
+CODE_SMELL
+r
+squid:S106½"9Replace this use of System.out or System.err by a logger.(å•ø¾ıÿÿÿÿ8÷’“Œ†-HĞRMAJORZ
+CODE_SMELL
+r
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(ª€óñıÿÿÿÿ8©©Œ†-H®RMAJORZ
+CODE_SMELL
+Qsquid:S1643"Use a StringBuilder instead.(âÀİ¹8÷’“Œ†-H¶RMINORZ
+CODE_SMELL
+Ä%squid:RedundantThrowsDeclarationCheckd"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(¶¡Ûâ8÷’“Œ†-H¸RMINORZ
+CODE_SMELL
+m
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(ˆÙå³8÷’“Œ†-HËRMAJORZ
+CODE_SMELL
+squid:UselessImportCheck"@Remove this unused import 'java.time.chrono.JapaneseChronology'.(šã¯Ñ8ª†Œ†-HõRMINORZ
+CODE_SMELL
+¾%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(óêÎÃH¡RMINORZ
+CODE_SMELL
+‡squid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÀŞÄ8÷’“Œ†-HÔRMINORZ
+CODE_SMELL
+^squid:S2095¤".Close this "FileWriter" in a "finally" clause.(×˜Ü8÷’“Œ†-H¼RBLOCKERZBUG
+Osquid:S1643…"Use a StringBuilder instead.(·‰…ÛüÿÿÿÿH–RMINORZ
+CODE_SMELL
+Psquid:S1643x"Use a StringBuilder instead.(ášÒÖ8÷’“Œ†-H´RMINORZ
+CODE_SMELL
+e
+squid:S106("9Replace this use of System.out or System.err by a logger.(£¼´H®RMAJORZ
+CODE_SMELL
+j
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ùÑ¦ÏüÿÿÿÿH­RMAJORZ
+CODE_SMELL
+r
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(¹›¥ïüÿÿÿÿ8÷’“Œ†-HÎRMAJORZ
+CODE_SMELL
+ksquid:S1854ı"6Remove this useless assignment to local variable "re".(¿àóõ8÷’“Œ†-HÒRMAJORZ
+CODE_SMELL
+r
+squid:S106ü"9Replace this use of System.out or System.err by a logger.(ÖŞéøÿÿÿÿ8÷’“Œ†-HÂRMAJORZ
+CODE_SMELL
+Psquid:S1643v"Use a StringBuilder instead.(âÀİ¹8÷’“Œ†-H¯RMINORZ
+CODE_SMELL
+e
+squid:S106U"9Replace this use of System.out or System.err by a logger.(ø°µ•HÂRMAJORZ
+CODE_SMELL
+l
+squid:S106g"9Replace this use of System.out or System.err by a logger.(ö§££8÷’“Œ†-H¿RMAJORZ
+CODE_SMELL
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ë¨”K8÷’“Œ†-HÀRMAJORZ
+CODE_SMELL
+k
+squid:S106V"9Replace this use of System.out or System.err by a logger.(ú‹Õ8÷’“Œ†-H¾RMAJORZ
+CODE_SMELL
+Osquid:S1643Š"Use a StringBuilder instead.(ÕôÄ¢üÿÿÿÿHŸRMINORZ
+CODE_SMELL
+r
+squid:S106è"9Replace this use of System.out or System.err by a logger.(à¹±ùÿÿÿÿ8÷’“Œ†-HÉRMAJORZ
+CODE_SMELL
+Jsquid:S1643ˆ"Use a StringBuilder instead.(®…HRMINORZ
+CODE_SMELL
+¸squid:S1862¢"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(É«Ùüÿÿÿÿ8÷’“Œ†-HºRMAJORZBUG
+Vsquid:S1643†"Use a StringBuilder instead.(ÚÙ¦¸ûÿÿÿÿ8÷’“Œ†-HµRMINORZ
+CODE_SMELL
+k
+squid:S106º"9Replace this use of System.out or System.err by a logger.(¾¼ÃƒøÿÿÿÿH»RMAJORZ
+CODE_SMELL
+Psquid:S1643|"Use a StringBuilder instead.(Èˆ‚¾8÷’“Œ†-H³RMINORZ
+CODE_SMELL
+Ê%squid:RedundantThrowsDeclarationCheck§"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(•Å“Ôúÿÿÿÿ8÷’“Œ†-H¹RMINORZ
+CODE_SMELL
+Œsquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥´ååüÿÿÿÿ8÷’“Œ†-HÓRMINORZ
+CODE_SMELL
+m
+squid:S106»"9Replace this use of System.out or System.err by a logger.(‰ÛÍ‘8÷’“Œ†-HÆRMAJORZ
+CODE_SMELL
+‡squid:S00117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¯‹©8÷’“Œ†-HÕRMINORZ
+CODE_SMELL
+r
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(Ä“í„üÿÿÿÿ8÷’“Œ†-HÍRMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.HÄRMINORZ
+CODE_SMELL
+q
+squid:S106?"9Replace this use of System.out or System.err by a logger.(¼ßÅ‘øÿÿÿÿ8÷’“Œ†-HÇRMAJORZ
+CODE_SMELL
+m
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(šÁìÂ8÷’“Œ†-HÈRMAJORZ
+CODE_SMELL
+r
+squid:S106ë"9Replace this use of System.out or System.err by a logger.(Ö¥œ¬ÿÿÿÿÿ8÷’“Œ†-HàRMAJORZ
+CODE_SMELL
+r
+squid:S106÷"9Replace this use of System.out or System.err by a logger.(Ö¥œ¬ÿÿÿÿÿ8Ø÷Œ†-HåRMAJORZ
+CODE_SMELL
