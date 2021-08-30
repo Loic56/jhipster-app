@@ -33,8 +33,12 @@
 @REM MAVEN_SKIP_RC - flag to disable loading of mavenrc files
 @REM ----------------------------------------------------------------------------
 
+echo "TEST CMD"
+
 @REM Begin all REM lines with '@' in case MAVEN_BATCH_ECHO is 'on'
 @echo off
+
+
 @REM set title of command window
 title %0
 @REM enable echoing by setting MAVEN_BATCH_ECHO to 'on'
@@ -43,6 +47,8 @@ title %0
 @REM set %HOME% to equivalent of $HOME
 if "%HOME%" == "" (set "HOME=%HOMEDRIVE%%HOMEPATH%")
 
+echo "%HOME%"
+
 @REM Execute a user defined script before this one
 if not "%MAVEN_SKIP_RC%" == "" goto skipRcPre
 @REM check for pre script, once with legacy .bat ending and once with .cmd ending
@@ -50,15 +56,25 @@ if exist "%HOME%\mavenrc_pre.bat" call "%HOME%\mavenrc_pre.bat"
 if exist "%HOME%\mavenrc_pre.cmd" call "%HOME%\mavenrc_pre.cmd"
 :skipRcPre
 
+
+
 @setlocal
 
 set ERROR_CODE=0
 
+
+
 @REM To isolate internal variables from possible post scripts, we use another setlocal
 @setlocal
 
+
+
 @REM ==== START VALIDATION ====
+echo "%JAVA_HOME%"
+
 if not "%JAVA_HOME%" == "" goto OkJHome
+
+
 
 echo.
 echo Error: JAVA_HOME not found in your environment. >&2
@@ -82,15 +98,19 @@ goto error
 
 :init
 
+
 @REM Find the project base dir, i.e. the directory that contains the folder ".mvn".
 @REM Fallback to current working directory if not found.
-
+echo "%MAVEN_BASEDIR%"
 set MAVEN_PROJECTBASEDIR=%MAVEN_BASEDIR%
 IF NOT "%MAVEN_PROJECTBASEDIR%"=="" goto endDetectBaseDir
 
 set EXEC_DIR=%CD%
 set WDIR=%EXEC_DIR%
+
+
 :findBaseDir
+echo "%WDIR%"
 IF EXIST "%WDIR%"\.mvn goto baseDirFound
 cd ..
 IF "%WDIR%"=="%CD%" goto baseDirNotFound
@@ -98,6 +118,7 @@ set WDIR=%CD%
 goto findBaseDir
 
 :baseDirFound
+echo "FOUND"
 set MAVEN_PROJECTBASEDIR=%WDIR%
 cd "%EXEC_DIR%"
 goto endDetectBaseDir
@@ -122,6 +143,7 @@ set WRAPPER_LAUNCHER=org.apache.maven.wrapper.MavenWrapperMain
 
 set DOWNLOAD_URL="https://repo.maven.apache.org/maven2/io/takari/maven-wrapper/0.5.6/maven-wrapper-0.5.6.jar"
 
+
 FOR /F "tokens=1,2 delims==" %%A IN ("%MAVEN_PROJECTBASEDIR%\.mvn\wrapper\maven-wrapper.properties") DO (
     IF "%%A"=="wrapperUrl" SET DOWNLOAD_URL=%%B
 )
@@ -129,12 +151,16 @@ FOR /F "tokens=1,2 delims==" %%A IN ("%MAVEN_PROJECTBASEDIR%\.mvn\wrapper\maven-
 @REM Extension to allow automatically downloading the maven-wrapper.jar from Maven-central
 @REM This allows using the maven wrapper in projects that prohibit checking in binary data.
 if exist %WRAPPER_JAR% (
+	echo "%WRAPPER_JAR%"
     if "%MVNW_VERBOSE%" == "true" (
+		
         echo Found %WRAPPER_JAR%
     )
 ) else (
+	echo "ELSE"
     if not "%MVNW_REPOURL%" == "" (
         SET DOWNLOAD_URL="%MVNW_REPOURL%/io/takari/maven-wrapper/0.5.6/maven-wrapper-0.5.6.jar"
+		echo "%DOWNLOAD_URL%"
     )
     if "%MVNW_VERBOSE%" == "true" (
         echo Couldn't find %WRAPPER_JAR%, downloading it ...
@@ -157,6 +183,9 @@ if exist %WRAPPER_JAR% (
 @REM Provide a "standardized" way to retrieve the CLI args that will
 @REM work with both Windows and non-Windows executions.
 set MAVEN_CMD_LINE_ARGS=%*
+
+echo "----------------------------"
+echo "%MAVEN_JAVA_EXE% %JVM_CONFIG_MAVEN_PROPS% %MAVEN_OPTS% %MAVEN_DEBUG_OPTS% -classpath %WRAPPER_JAR% "-Dmaven.multiModuleProjectDirectory=%MAVEN_PROJECTBASEDIR%" %WRAPPER_LAUNCHER% %MAVEN_CONFIG% %*"
 
 %MAVEN_JAVA_EXE% %JVM_CONFIG_MAVEN_PROPS% %MAVEN_OPTS% %MAVEN_DEBUG_OPTS% -classpath %WRAPPER_JAR% "-Dmaven.multiModuleProjectDirectory=%MAVEN_PROJECTBASEDIR%" %WRAPPER_LAUNCHER% %MAVEN_CONFIG% %*
 if ERRORLEVEL 1 goto error

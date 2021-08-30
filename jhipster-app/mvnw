@@ -34,6 +34,8 @@
 #   MAVEN_SKIP_RC - flag to disable loading of mavenrc files
 # ----------------------------------------------------------------------------
 
+echo "TEST 1"
+  
 if [ -z "$MAVEN_SKIP_RC" ] ; then
 
   if [ -f /etc/mavenrc ] ; then
@@ -45,6 +47,10 @@ if [ -z "$MAVEN_SKIP_RC" ] ; then
   fi
 
 fi
+
+
+echo "TEST 2"
+
 
 # OS specific support.  $var _must_ be set to either true or false.
 cygwin=false;
@@ -95,7 +101,7 @@ if [ -z "$M2_HOME" ] ; then
   M2_HOME=`cd "$M2_HOME" && pwd`
 
   cd "$saveddir"
-  # echo Using m2 at $M2_HOME
+  echo Using m2 at $M2_HOME
 fi
 
 # For Cygwin, ensure paths are in UNIX format before anything is touched

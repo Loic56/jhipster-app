@@ -2,6 +2,14 @@
 
 This application was generated using JHipster 7.1.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.1.0](https://www.jhipster.tech/documentation-archive/v7.1.0).
 
+## Perso
+
+Tutoriels:
+
+```html
+https://www.baeldung.com/jhipster https://www.ionos.fr/digitalguide/sites-internet/developpement-web/jhipster/
+```
+
 ## Development
 
 Before you can build this project, you must install and configure the following dependencies on your machine:
